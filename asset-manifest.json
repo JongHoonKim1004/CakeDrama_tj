@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CakeDrama_tj/static/css/main.02a3a17c.css",
+    "main.js": "/CakeDrama_tj/static/js/main.232e1ea6.js",
+    "static/js/787.b620f47e.chunk.js": "/CakeDrama_tj/static/js/787.b620f47e.chunk.js",
+    "index.html": "/CakeDrama_tj/index.html",
+    "main.02a3a17c.css.map": "/CakeDrama_tj/static/css/main.02a3a17c.css.map",
+    "main.232e1ea6.js.map": "/CakeDrama_tj/static/js/main.232e1ea6.js.map",
+    "787.b620f47e.chunk.js.map": "/CakeDrama_tj/static/js/787.b620f47e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a3a17c.css",
+    "static/js/main.232e1ea6.js"
+  ]
+}
