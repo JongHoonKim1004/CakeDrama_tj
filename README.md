@@ -17,6 +17,17 @@
   - Language : `JavaScript(ES6)`
   - Library & Framework : `React(18.3.0)`, `Redux(9.1.2)`
   - Tool : `Visual Studio Code`
+  - Target : `Web Browser`
+  - ETC : `Git`
+
+## 🎇 주요기능 실행화면
+<details>
+  <summary>주요 기능 실행화면</summary>
+
+  * ****
+
+  
+</details>
 
 
 
