@@ -24,11 +24,15 @@
 <details>
   <summary>주요 기능 실행화면</summary>
 
-  * ****
+  * **장바구니 담기**
+    * `Redux`를 이용한 장바구니 담기가 가능합니다. 새로고침을 하면 목록이 초기화 됩니다.
+   
+      ![CakeDrama_react_redux](https://github.com/JongHoonKim1004/CakeDrama_tj/assets/155927559/f4ab7677-9a9d-4c55-aaac-ee7d2e9eae1b)
 
-  
+
 </details>
 
-
+## 🌄 개선사항
+- 상품 구매에 대한 메커니즘 생성
 
 
